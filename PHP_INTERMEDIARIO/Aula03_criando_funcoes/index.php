@@ -10,7 +10,6 @@
     function livePix($valor = 71) {
         echo "Anonimo contribiu com o valor de ".$valor."<br>";
     }
-
     livePix();
     livePix(150);
   ?>
